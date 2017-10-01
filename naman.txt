@@ -1,0 +1,14 @@
+//this file is naman.txt//
+#include<iostream.h>
+#include<stdio.h>
+main()
+{ clrscr();
+  cout<<"The start";
+  cout<<"git add *filename";
+  cout<<"git status";
+  cout<<"git commit -m *Comments in quotes* filename";
+  cout<<"git push";
+  cout<<"The end";
+  getch();
+  return 0;
+}
